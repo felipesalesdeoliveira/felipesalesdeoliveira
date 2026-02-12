@@ -103,4 +103,6 @@ DevOps Engineer com experiência em ambientes cloud-native e Kubernetes, atuando
 
 ### 📊 Estatísticas
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipesalesdeoliveira&show_icons=true&theme=ads-juicy-fresh)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=felipesalesdeoliveira&theme=ads-juicy-fresh)](https://git.io/streak-stats)
