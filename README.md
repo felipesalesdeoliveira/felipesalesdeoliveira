@@ -1,8 +1,9 @@
-# 👩🏻‍💻 Felipe Sales de Oliveira
+# 👨🏻‍💻 Felipe Sales de Oliveira
 
 **`Devops Engineer`**
 
 DevOps Engineer com experiência em ambientes cloud-native e Kubernetes, atuando na automação e padronização de infraestrutura com Terraform, na construção e evolução de pipelines de CI/CD e na implementação de estratégias robustas de observabilidade.
+<br/>
 
 ---
 
@@ -96,10 +97,9 @@ DevOps Engineer com experiência em ambientes cloud-native e Kubernetes, atuando
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg"
     />
-
-
 <br/>
-<br/>
+
+---
 
 ### 📊 Estatísticas
 
@@ -117,3 +117,5 @@ DevOps Engineer com experiência em ambientes cloud-native e Kubernetes, atuando
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesalesdeoliveira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
     />
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=felipesalesdeoliveira&theme=ads-juicy-fresh)](https://git.io/streak-stats)
