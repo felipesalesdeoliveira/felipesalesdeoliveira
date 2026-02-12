@@ -2,7 +2,7 @@
 
 **`Devops Engineer`**
 
-Atuo como DevOps Engineer em ambientes cloud e Kubernetes, trabalhando com automação de infraestrutura, pipelines de CI/CD e observabilidade de aplicações.
+DevOps Engineer em ambientes cloud e Kubernetes, trabalhando com automação de infraestrutura, pipelines de CI/CD e observabilidade de aplicações.
 
 Tenho experiência com AWS, Docker e Kubernetes, aplicando práticas de Infrastructure as Code com Terraform, além de integração e entrega contínua. Também atuo com monitoramento e logging usando Prometheus, Grafana, Loki e ELK Stack, sempre com foco em manter ambientes estáveis, escaláveis e bem monitorados.
 
