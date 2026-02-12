@@ -2,7 +2,7 @@
 
 **`Devops Engineer`**
 
-DevOps Engineer em ambientes cloud e Kubernetes, trabalhando com automação de infraestrutura, pipelines de CI/CD e observabilidade de aplicações.
+Atuo como DevOps Engineer em ambientes cloud e Kubernetes, trabalhando com automação de infraestrutura, pipelines de CI/CD e observabilidade de aplicações.
 
 Tenho experiência com AWS, Docker e Kubernetes, aplicando práticas de Infrastructure as Code com Terraform, além de integração e entrega contínua. Também atuo com monitoramento e logging usando Prometheus, Grafana, Loki e ELK Stack, sempre com foco em manter ambientes estáveis, escaláveis e bem monitorados.
 
@@ -41,6 +41,14 @@ Tenho experiência com AWS, Docker e Kubernetes, aplicando práticas de Infrastr
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Jenkins" 
+    title="Jenkins"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg"
 />
 <img 
     align="left" 
@@ -97,20 +105,17 @@ Tenho experiência com AWS, Docker e Kubernetes, aplicando práticas de Infrastr
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
+<img 
+    align="left" 
+    alt="GitHub Stats" 
+    width="200px" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=felipesalesdeoliveira&show_icons=true"
+    />
+
+<img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=felipesalesdeoliveira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesalesdeoliveira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    />
