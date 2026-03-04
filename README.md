@@ -2,7 +2,17 @@
 
 **`Devops Engineer`**
 
-DevOps Engineer com experiência em ambientes cloud-native e Kubernetes, atuando na automação e padronização de infraestrutura com Terraform, na construção e evolução de pipelines de CI/CD e na implementação de estratégias robustas de observabilidade.
+Hi, I'm Felipe 👋
+
+DevOps Engineer working with cloud infrastructure, Kubernetes, CI/CD and observability.
+
+Tech Stack:
+AWS | Kubernetes | Terraform | Docker | GitHub Actions | Prometheus | Grafana | Loki
+
+Currently working on:
+DevOps automation
+Cloud infrastructure
+Observability platforms
 <br/>
 
 ---
