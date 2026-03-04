@@ -14,6 +14,7 @@ Currently working on:
 - Cloud infrastructure
 - Observability platforms
 <br/>
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
