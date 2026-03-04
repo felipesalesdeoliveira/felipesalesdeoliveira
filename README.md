@@ -10,9 +10,9 @@ Tech Stack:
 AWS | Kubernetes | Terraform | Docker | GitHub Actions | Prometheus | Grafana | Loki
 
 Currently working on:
-DevOps automation
-Cloud infrastructure
-Observability platforms
+- DevOps automation
+- Cloud infrastructure
+- Observability platforms
 <br/>
 
 ---
