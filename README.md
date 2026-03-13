@@ -4,15 +4,15 @@
 
 Hi, I'm Felipe 👋
 
-DevOps Engineer working with cloud infrastructure, Kubernetes, CI/CD and observability.
+DevOps Engineer working with cloud infrastructure, Kubernetes platforms, CI/CD automation and observability for distributed systems.
 
-Tech Stack:
-AWS • Azure • GCP | Kubernetes | Terraform | Docker | GitHub Actions | Prometheus | Grafana | Loki
+Tech Stack: AWS • GCP • Azure | Kubernetes | Terraform | Docker | GitHub Actions | Prometheus | Grafana | Loki
 
-Currently working on:
-- DevOps automation
-- Cloud infrastructure
-- Observability platforms
+Current focus:
+
+• DevOps automation  
+• Cloud infrastructure  
+• Observability platforms
 <br/>
 
 ---
