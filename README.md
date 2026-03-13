@@ -114,7 +114,7 @@ Currently working on:
 ### 📊 Estatísticas
 
 <p align="center">
-  <img height="168" src="https://github-readme-stats.vercel.app/api?username=felipesalesdeoliveira&show_icons=true&theme=tokyonight"/>
+  <img height="167" src="https://github-readme-stats.vercel.app/api?username=felipesalesdeoliveira&show_icons=true&theme=tokyonight"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesalesdeoliveira&layout=compact&theme=tokyonight"/>
 </p>
 
