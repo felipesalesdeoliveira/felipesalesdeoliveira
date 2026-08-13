@@ -4,15 +4,19 @@
 
 Hi, I'm Felipe 👋
 
-DevOps Engineer working with cloud infrastructure, Kubernetes platforms, CI/CD automation and observability.
+DevOps & Site Reliability Engineer focused on cloud infrastructure, Kubernetes, automation, observability and reliable production environments.
 
-Tech Stack: AWS • GCP • Azure | Kubernetes | Terraform | Docker | GitHub Actions | Prometheus | Grafana | Loki
+**Core stack:** AWS • Azure • GCP • Kubernetes • Terraform • Docker • GitHub Actions • Prometheus • Grafana • OpenTelemetry
 
-Current focus:
+**Current focus:**
+• DevOps & infrastructure automation
+• Cloud & Kubernetes platforms
+• Observability and reliability
+• CI/CD and GitOps
 
-• DevOps automation  
-• Cloud infrastructure  
-• Observability platforms
+🔗 Technical Portfolio:
+felipesalesdeoliveira.github.io/felipe-sales-technical-portfolio/
+
 <br/>
 
 ---
