@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Felipe Sales de Oliveira
 
-**`Devops Engineer`**
+**`Devops & SRE Engineer`**
 
 Hi, I'm Felipe 👋
 
